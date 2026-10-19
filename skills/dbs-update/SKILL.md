@@ -71,7 +71,7 @@ description: 更新个人版 dbskill（recc9878-cell/dbskill-personal），更�
 
 - 用户只问版本、更新内容或是否需要更新时，先回答问题，不执行命令。
 - 用户明确要求检查更新且希望实际同步时，按本 Skill 更新。
-- 官方上游 dontbesilent2025/dbskill 的新版本**不再自动跟进**；用户明确要求「同步官方上游」时，按「更新前留档」先快照，再对比合并进本机并推送仓库。
+- 官方上游 dontbesilent2025/dbskill 已切断：不做任何同步，其仓库仅作旧版历史回溯用途。
 - 不使用 `npx skills update`，该命令可能更新用户安装的其他 Skill。
 
 ---
