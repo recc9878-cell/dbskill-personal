@@ -11,7 +11,7 @@ description: 更新个人版 dbskill（recc9878-cell/dbskill-personal），更�
 
 ## 更新范围
 
-- 只更新个人仓库 `recc9878-cell/dbskill-personal`（私有，本机 dbs 家族的镜像）。
+- 只更新个人仓库 `recc9878-cell/dbskill-personal`（公开，本机 dbs 家族的镜像）。
 - 本机 `~/.agents/skills/` 是真源：本机的改动和新 skill 由本 Skill 推送回仓库，仓库只跟随本机。
 - 保留用户在 `~/.dbs/` 中的存档、报告和决策记录。
 - 更新前按「更新前留档」把将被覆盖的旧版本快照到 `~/.dbs/archive/`。

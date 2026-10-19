@@ -2,7 +2,7 @@
 
 靳扬自用的 dbs 家族打包：`/dbs` 编排入口 + 42 个 Skill，本机在用的原样镜像。
 
-体系源自 dontbesilent 的 dbskill（[dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)），在此基础上并入个人扩展（dbs-viewpoint / dbs-hook-pro / dbs-wechat-plus / dbs-density / dbs-bridge / dbs-gpts-sync / dbs-skill-cleaner / dbs-slowisfast）。**私有仓库**：含付费课程方法论的衍生内容，请勿转公开。
+体系源自 dontbesilent 的 dbskill（[dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)，CC BY-NC 4.0，转载注明出处），在此基础上并入个人扩展（dbs-viewpoint / dbs-hook-pro / dbs-wechat-plus / dbs-density / dbs-bridge / dbs-gpts-sync / dbs-skill-cleaner / dbs-slowisfast）。
 
 ## 安装
 
@@ -12,7 +12,7 @@
 npx -y skills add recc9878-cell/dbskill-personal -g --all
 ```
 
-前置：本机已能访问 GitHub（私有仓库需 `gh auth login` 或已配置 git 凭据）。
+公开仓库，无需登录 GitHub，能访问 GitHub 即可安装。
 
 ## 仓库内容
 
