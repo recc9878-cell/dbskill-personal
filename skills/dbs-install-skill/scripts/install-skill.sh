@@ -225,6 +225,7 @@ SHARED_TARGET_DIR="$INSTALL_HOME/.agents/skills"
 NATIVE_TARGET_DIRS=(
   "$INSTALL_HOME/.claude/skills"
   "$INSTALL_HOME/.workbuddy/skills"
+  "$INSTALL_HOME/.workbuddy-ai/skills"
   "$INSTALL_HOME/.hermes/skills"
   "$INSTALL_HOME/.kiro/skills"
   "$INSTALL_HOME/.qwen/skills"
